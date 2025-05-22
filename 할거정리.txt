@@ -1,0 +1,26 @@
+법조문 관련 데이터 넣어서 상시 챗봇기능할수있게 데이터 넣기
+방금했던말 기억하는 기능 넣기
+벤치마크 만들어서 채점해볼수 있게 하기
+데이터전처리, 각종설정 등등 바꾸면서 실험을 통해 모델성능 올리기
++⍺ : 추론기능, 멀티모달기능
+
+
+기본적인 법령(법정에서 권리의무 확인)
+https://www.kosha.or.kr/kosha/info/getlawRgl.do
+
+보상관련 법령: 
+산업재해보상보험법
+https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%82%B0%EC%97%85%EC%9E%AC%ED%95%B4%EB%B3%B4%EC%83%81%EB%B3%B4%ED%97%98%EB%B2%95
+
+고사 및 예규(법적인 효력은 없으나 사실상 실무는 거의 여기서):
+https://www.kosha.or.kr/kosha/info/noticeGuideline.do
+
+각종 지침(중요도 낮음)
+https://www.kosha.or.kr/kosha/data/guidanceC.do
+
+산재관련 알것들, 신청방법(절차):
+https://www.nodong.kr/sanjae/406587
+https://www.nodong.kr/sanjae/403460
+https://www.nodong.kr/sanjae:
+
+https://www.comwel.or.kr/comwel/comp/comp_coss.jsp
